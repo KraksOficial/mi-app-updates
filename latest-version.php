@@ -4,7 +4,7 @@ header('Content-Type: application/json'); // Indicar que la respuesta es JSON
 // Datos de la última versión
 $latestVersion = array(
     "version" => "1.0.0", // Última versión disponible
-    "apkUrl" => "https://drive.usercontent.google.com/download?id=1aJdOpBTUecitEWsBigZ_AJIEQFZg0OL4&export=download&authuser=0&confirm=t&uuid=c6b6abee-cd9e-4401-9a97-c09b3a277ec2&at=AEz70l6Y8xDFd71T7dnubagB5K3r:1741210153636" // URL del APK
+    "apkUrl" => "https://drive.usercontent.google.com/download?id=1iV_TE7CqF6FlzBH9YUrAgQ6vBHs5SLSB&export=download&authuser=0&confirm=t&uuid=40c420df-c2a5-42c1-865b-1a2884f429c1&at=AEz70l5dyL6cotjj267oFE5E8Y6d:1741210787536" // URL del APK
 );
 
 // Devolver los datos en formato JSON
