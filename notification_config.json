@@ -4,8 +4,8 @@
       "id": 2,
       "title": "Notificación desde la API",
       "body": "Contenido de la notificación obtenida desde la API.",
-      "hour": 13,
-      "minute": 20
+      "hour": 20,
+      "minute": 30
     }
   ]
 }
