@@ -1,0 +1,11 @@
+{
+  "notifications": [
+    {
+      "id": 2,
+      "title": "Notificación desde la API",
+      "body": "Contenido de la notificación obtenida desde la API.",
+      "hour": 15,
+      "minute": 30
+    }
+  ]
+}
