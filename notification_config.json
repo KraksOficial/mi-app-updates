@@ -2,8 +2,8 @@
   "notifications": [
     {
       "id": 2,
-      "title": "Notificación desde la API",
-      "body": "Contenido de la notificación obtenida desde la API.",
+      "title": "Importante",
+      "body": "Recuerda que en la aplicacion tambien puedes calcular el monto que quieras de dolar a bolivares o viseversa.",
       "hour": 20,
       "minute": 30
     }
