@@ -2,7 +2,7 @@
   "notifications": [
     {
       "id": 2,
-      "title": "Importante",
+      "title": "Importante cierre del dolar",
       "body": "Recuerda que en la aplicacion tambien puedes calcular el monto que quieras de dolar a bolivares o viseversa.",
       "hour": 18,
       "minute": 0
