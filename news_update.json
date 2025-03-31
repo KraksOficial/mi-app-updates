@@ -1,14 +1,14 @@
 [
   {
-    "title": "Título de la noticia 1",
-    "content": "Contenido de la noticia...",
-    "link": "https://ejemplo.com/noticia1",
-    "published_at": "2023-05-20T10:30:00Z"
+    "title": "Influencer Chamo Cristian",
+    "content": "El influencer creador de contenido de Carúpano cada vez obteniendo nuevos logros con su personaje La Chiky...",
+    "link": "https://www.tiktok.com/@chamocristian2.0",
+    "published_at": "2025-04-01T09:30:00Z"
   },
   {
-    "title": "Título de la noticia 2",
-    "content": "Contenido de la noticia...",
+    "title": "Subiendo El Dolar",
+    "content": "El dolar se encuentra en un aumento imparable y la población se encuentra en descontento.",
     "link": null,
-    "published_at": "2023-05-19T15:45:00Z"
+    "published_at": "2025-04-01T09:00:00Z"
   }
 ]
