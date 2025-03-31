@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Título de la noticia 1",
+    "content": "Contenido de la noticia...",
+    "link": "https://ejemplo.com/noticia1",
+    "published_at": "2023-05-20T10:30:00Z"
+  },
+  {
+    "title": "Título de la noticia 2",
+    "content": "Contenido de la noticia...",
+    "link": null,
+    "published_at": "2023-05-19T15:45:00Z"
+  }
+]
