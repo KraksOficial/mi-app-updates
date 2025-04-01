@@ -27,6 +27,12 @@
       "body": "¿Ya registraste tus operaciones?",
       "hour": 20,
       "minute": 0
+    },
+    {
+      "id": 1001,
+      "title": "URGENTE: Cambio importante",
+      "body": "Se ha detectado una variación significativa",
+      "show_immediately": true
     }
   ]
 }
