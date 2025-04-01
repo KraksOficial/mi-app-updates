@@ -1,0 +1,31 @@
+{
+  "notifications": [
+    {
+      "id": 3,
+      "title": "Cierre del día",
+      "body": "Precio final del dólar hoy",
+      "hour": 19,
+      "minute": 0
+    },
+    {
+      "id": 4,
+      "title": "Recordatorio nocturno",
+      "body": "¿Ya registraste tus operaciones?",
+      "hour": 21,
+      "minute": 0
+    },
+    {
+      "id": 5,
+      "title": "Resumen diario",
+      "body": "Revisa tu actividad hoy",
+      "hour": 22,
+      "minute": 0
+    },
+    {
+      "id": 6,
+      "title": "URGENTE: Cambio importante",
+      "body": "Se ha detectado una variación significativa",
+      "show_immediately": true
+    }
+  ]
+}
