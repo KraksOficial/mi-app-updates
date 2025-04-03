@@ -2,18 +2,26 @@
   "notifications": [
     {
       "id": 4,
-      "title": "Recordatorio nocturno",
-      "body": "¿Ya registraste tus operaciones?",
-      "hour": 10,
-      "minute": 25,
+      "title": "Recordatorio",
+      "body": "Recuerda que puedes calcular el precio del dolar o euro a bs y viceversa en nuestra calculadora",
+      "hour": 16,
+      "minute": 0,
       "enabled": true
     },
     {
       "id": 5,
       "title": "Resumen diario",
       "body": "Revisa tu actividad hoy",
-      "hour": 10,
+      "hour": 12,
       "minute": 30,
+      "enabled": true
+    },
+    {
+      "id": 6,
+      "title": "Resumen fin de semana",
+      "body": "Recuerda siempre estar informado del precio del dolar o euro con nuestra aplicación",
+      "hour": 14,
+      "minute": 0,
       "enabled": false
     },
     {
