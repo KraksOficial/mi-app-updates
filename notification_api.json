@@ -4,28 +4,24 @@
       "id": 4,
       "title": "Recordatorio nocturno",
       "body": "¿Ya registraste tus operaciones?",
-      "hour": 9,
-      "minute": 30
+      "hour": 10,
+      "minute": 25,
+      "enabled": true
     },
     {
       "id": 5,
       "title": "Resumen diario",
       "body": "Revisa tu actividad hoy",
-      "hour": 9,
-      "minute": 35
-    },
-    {
-      "id": 6,
-      "title": "Recordatorio nocturno",
-      "body": "¿Ya registraste tus operaciones?",
-      "hour": 9,
-      "minute": 40
+      "hour": 10,
+      "minute": 30,
+      "enabled": false
     },
     {
       "id": 1001,
       "title": "URGENTE: Cambio importante",
       "body": "Se ha detectado una variación significativa",
-      "show_immediately": true
+      "show_immediately": true,
+      "enabled": false
     }
   ]
 }
