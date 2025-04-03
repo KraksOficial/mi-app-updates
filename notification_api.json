@@ -12,21 +12,21 @@
       "title": "Recordatorio nocturno",
       "body": "¿Ya registraste tus operaciones?",
       "hour": 8,
-      "minute": 10
+      "minute": 30
     },
     {
       "id": 5,
       "title": "Resumen diario",
       "body": "Revisa tu actividad hoy",
       "hour": 8,
-      "minute": 15
+      "minute": 35
     },
     {
       "id": 6,
       "title": "Recordatorio nocturno",
       "body": "¿Ya registraste tus operaciones?",
       "hour": 8,
-      "minute": 20
+      "minute": 38
     },
     {
       "id": 1001,
