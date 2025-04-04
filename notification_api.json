@@ -20,9 +20,9 @@
       "id": 6,
       "title": "Resumen fin de semana",
       "body": "Recuerda siempre estar informado del precio del dolar o euro con nuestra aplicación",
-      "hour": 14,
+      "hour": 18,
       "minute": 0,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": 1001,
