@@ -14,13 +14,13 @@
       "body": "Revisa tu actividad hoy",
       "hour": 12,
       "minute": 30,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": 6,
       "title": "Resumen fin de semana",
       "body": "Recuerda siempre estar informado del precio del dolar o euro con nuestra aplicación",
-      "hour": 18,
+      "hour": 14,
       "minute": 0,
       "enabled": true
     },
@@ -29,7 +29,7 @@
       "title": "URGENTE: Cambio importante",
       "body": "Se ha detectado una variación significativa",
       "show_immediately": true,
-      "enabled": true
+      "enabled": false
     }
   ]
 }
