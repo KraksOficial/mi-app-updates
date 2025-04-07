@@ -29,7 +29,7 @@
       "title": "URGENTE: Cambio importante",
       "body": "Se ha detectado una variación significativa",
       "show_immediately": true,
-      "enabled": false
+      "enabled": true
     }
   ]
 }
