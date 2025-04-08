@@ -1,4 +1,21 @@
 {
-    "imageUrl": "",
-    "redirectUrl": ""
+  "active": true,
+  "ads": [
+    {
+      "imageUrl": "https://ejemplo.com/ad1.jpg",
+      "redirectUrl": "https://ejemplo.com/link1",
+      "active": true,
+      "duration": 5
+    },
+    {
+      "imageUrl": "https://ejemplo.com/ad2.jpg",
+      "redirectUrl": "https://ejemplo.com/link2",
+      "active": true,
+      "duration": 8
+    }
+  ],
+  "defaultAd": {
+    "imageUrl": "assets/icons/publicidad.gif",
+    "redirectUrl": "https://linktr.ee/kraksoficial"
+  }
 }
