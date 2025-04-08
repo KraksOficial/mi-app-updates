@@ -2,16 +2,16 @@
   "active": true,
   "ads": [
     {
-      "imageUrl": "https://ejemplo.com/ad1.jpg",
-      "redirectUrl": "https://ejemplo.com/link1",
+      "imageUrl": "https://iili.io/3YPnhB4.gif",
+      "redirectUrl": "https://servers.fivem.net/servers/detail/mggk3q",
       "active": true,
       "duration": 5
     },
     {
-      "imageUrl": "https://ejemplo.com/ad2.jpg",
-      "redirectUrl": "https://ejemplo.com/link2",
+      "imageUrl": "https://iili.io/3Y6zI9t.gif",
+      "redirectUrl": "https://linktr.ee/kraksoficial",
       "active": true,
-      "duration": 8
+      "duration": 10
     }
   ],
   "defaultAd": {
