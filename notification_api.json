@@ -12,9 +12,9 @@
       "id": 5,
       "title": "Resumen diario",
       "body": "Revisa tu actividad hoy",
-      "hour": 12,
+      "hour": 20,
       "minute": 30,
-      "enabled": false
+      "enabled": true
     },
     {
       "id": 6,
@@ -22,14 +22,14 @@
       "body": "Recuerda siempre estar informado del precio del dolar o euro con nuestra aplicación",
       "hour": 14,
       "minute": 0,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": 1001,
       "title": "URGENTE: Cambio importante",
       "body": "Se ha detectado una variación significativa",
       "show_immediately": true,
-      "enabled": true
+      "enabled": false
     }
   ]
 }
