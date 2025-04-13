@@ -14,7 +14,7 @@
       "body": "Revisa tu actividad hoy",
       "hour": 20,
       "minute": 30,
-      "enabled": true
+      "enabled": false
     },
     {
       "id": 6,
