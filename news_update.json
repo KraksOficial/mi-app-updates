@@ -1,35 +1,11 @@
 [
   {
-    "title": "Denuncia en el MNOAL",
-    "content": "Venezuela denunció ante el Movimiento de los Países No Alineados (MNOAL) las acciones contra migrantes venezolanos en Estados Unidos, calificándolas como violaciones graves de derechos humanos.",
+    "title": "Nueva Actualización",
+    "content": "Ya esta disponible la nueva versión de Dólar VE en esta ocasión es la versión 1.0.5 de esta apk.",
     "link": null,
-    "published_at": "2025-04-08T10:40:00Z",
+    "published_at": "2025-09-01T16:00:00Z",
     "is_visible": true,
     "is_important": true
-  },
-  {
-    "title": "Territorio Esequibo",
-    "content": "Edmundo González y María Corina Machado reafirmaron la defensa de los derechos de Venezuela sobre el territorio Esequibo, destacando la necesidad de una transición democrática para abordar el caso ante la Corte Internacional de Justicia.",
-    "link": null,
-    "published_at": "2025-04-08T10:39:00Z",
-    "is_visible": true,
-    "is_important": true
-  },
-  {
-    "title": "Cooperación con Bolivia",
-    "content": "Los cancilleres de Venezuela y Bolivia se reunieron para fortalecer la cooperación bilateral y abordar desafíos regionales, destacando la solidaridad entre ambos países.",
-    "link": null,
-    "published_at": "2025-04-08T10:38:00Z",
-    "is_visible": true,
-    "is_important": true
-  },
-  {
-    "title": "Aumento del paralelo",
-    "content": "El dolar paralelo el dia de hoy a aumentado a 100.83 bs solo un poco de aumento al monto anterior",
-    "link": null,
-    "published_at": "2025-04-01T10:41:00Z",
-    "is_visible": false,
-    "is_important": false
   },
   {
     "title": "Influencer Chamo Cristian",
@@ -38,21 +14,6 @@
     "published_at": "2025-04-01T09:30:00Z",
     "is_visible": true,
     "is_important": true
-  },
-  {
-    "title": "Subiendo El Dolar",
-    "content": "El dolar se encuentra en un aumento imparable y la población se encuentra en descontento.",
-    "link": null,
-    "published_at": "2025-04-01T09:00:00Z",
-    "is_visible": false,
-    "is_important": false
-  },
-  {
-    "title": "Presidente del Bcv",
-    "content": "Presidente del bcv ofrece coñazos a persona que le quiso cobrar a bcv...",
-    "link": "https://www.elchiguirebipolar.net/31-03-2025/presidente-del-bcv-ofrece-conazos-a-senor-que-intento-pagarle-a-tasa-bcv/",
-    "published_at": "2025-04-01T08:00:00Z",
-    "is_visible": true,
-    "is_important": false
   }
 ]
+
