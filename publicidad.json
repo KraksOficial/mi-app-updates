@@ -12,10 +12,16 @@
       "redirectUrl": "https://linktr.ee/kraksoficial",
       "active": true,
       "duration": 10
+    },
+    {
+      "imageUrl": "https://iili.io/KBjHNHX.gif",
+      "redirectUrl": "https://dolarve.net",
+      "active": true,
+      "duration": 10
     }
   ],
   "defaultAd": {
     "imageUrl": "assets/icons/publicidad.gif",
-    "redirectUrl": "https://linktr.ee/kraksoficial"
+    "redirectUrl": "https://dolarve.net"
   }
 }
