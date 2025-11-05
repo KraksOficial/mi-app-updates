@@ -1,6 +1,14 @@
 [
   {
     "title": "Nueva Actualización",
+    "content": "Ya esta disponible la nueva versión de Dólar VE en esta ocasión es la versión 1.0.8 de esta apk.",
+    "link": null,
+    "published_at": "2025-11-04T21:50:00Z",
+    "is_visible": true,
+    "is_important": true
+  },
+  {
+    "title": "Nueva Actualización",
     "content": "Ya esta disponible la nueva versión de Dólar VE en esta ocasión es la versión 1.0.7 de esta apk.",
     "link": null,
     "published_at": "2025-11-03T07:50:00Z",
@@ -16,6 +24,7 @@
     "is_important": false
   }
 ]
+
 
 
 
