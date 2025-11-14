@@ -3,7 +3,7 @@
   "apkUrl": "https://www.dropbox.com/scl/fi/av9gip1f1649dboi0t0su/app-release.apk?rlkey=3cj5olaxhtev1fdwemxf7syn8&st=www9my08&dl=1",
   "description": "Nueva versión con mejoras de rendimiento y nuevas funciones",
   "isOptional": true,
-  "backgroundImageUrl": "http://192.168.100.21/sistema_lagranja/img/icon.png",
+  "backgroundImageUrl": "http://dolarve.online/sistema_lagranja/img/icon.png",
   "releaseDate": "2024-01-15",
   "releaseNotes": "- Corrección de errores en ventas\n- Nueva interfaz de usuario\n- Mejoras en la estabilidad"
 }
